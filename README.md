@@ -21,6 +21,7 @@ Once you got the EV3DEV flash screen on your EV3, you should be good to go!
 Next what you will need is Visual Studio Code. Here we are going to use python as well.
 
 First up, head on over to the Visual Studio website and download the latest release. At the time of writing, I am using Version 1.77
+
 [Visual Studio Code Install](https://code.visualstudio.com/download)
 
 Follow the directions for Visual Studio Code and then launch Visual Studio Code!
